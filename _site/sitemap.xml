@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/free-time/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/me/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/res-act/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tags/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/year-archive/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/slide/Mandelli_COSMOS_28Maggio.pdf</loc>
+<lastmod>2019-05-28T07:48:42+02:00</lastmod>
+</url>
+</urlset>
